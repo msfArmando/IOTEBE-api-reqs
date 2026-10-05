@@ -1,0 +1,276 @@
+{
+    "summary": {
+        "total": 6,
+        "status_counts": {
+            "pending": 0,
+            "planned_intervention": 0,
+            "closed": 6,
+            "not_effective": 0
+        },
+        "severity_counts": {
+            "critical": 2,
+            "attention": 4
+        },
+        "effectiveness": {
+            "effective": 6,
+            "not_effective": 0
+        },
+        "cause_counts": [
+            {
+                "label": "OTHERS",
+                "name": "OTHERS",
+                "count": 5
+            },
+            {
+                "label": "LOOSENESS",
+                "name": "Folga",
+                "count": 1
+            },
+            {
+                "label": "MISALIGNMENT",
+                "name": "Desalinhamento",
+                "count": 1
+            },
+            {
+                "label": "UNBALANCE",
+                "name": "Desbalanceamento",
+                "count": 1
+            }
+        ],
+        "financial": {
+            "avoided_maintenance_cost": 0.0,
+            "time_avoided_in_hours": 0.0
+        }
+    },
+    "items": [
+        {
+            "plant": "Usina Giasa ",
+            "sector": "Extração",
+            "group": "Conjunto Rotativo",
+            "equipment": "Desfibrador",
+            "spot": "LOA",
+            "spot_id": 24025,
+            "sensor_id": "NG04951",
+            "diagnostic_card_id": 154533,
+            "card_status": "CLOSED",
+            "status_color": "YELLOW",
+            "severity": "attention",
+            "related_failures": [
+                {
+                    "label": "VELOCITY_FAILURE",
+                    "name": "Velocidade",
+                    "status_color": "YELLOW"
+                }
+            ],
+            "related_failures_text": "Velocidade",
+            "causes": [
+                {
+                    "label": "OTHERS",
+                    "name": "OTHERS"
+                }
+            ],
+            "start_time": 1791180261,
+            "start_time_text": "05/10/2026 03:04",
+            "end_time": 1791196800,
+            "last_alarmed_time": 1791180261,
+            "max_percent_above_alarm": 2.88,
+            "time_avoided_in_hours": null,
+            "time_avoided_in_hours_text": null,
+            "avoided_maintenance_cost": null,
+            "avoided_maintenance_cost_text": null
+        },
+        {
+            "plant": "Usina Giasa ",
+            "sector": "Extração",
+            "group": "Conjunto Rotativo",
+            "equipment": "Motor",
+            "spot": "LA",
+            "spot_id": 24028,
+            "sensor_id": "NG04956",
+            "diagnostic_card_id": 154520,
+            "card_status": "CLOSED",
+            "status_color": "YELLOW",
+            "severity": "attention",
+            "related_failures": [
+                {
+                    "label": "VELOCITY_FAILURE",
+                    "name": "Velocidade",
+                    "status_color": "YELLOW"
+                }
+            ],
+            "related_failures_text": "Velocidade",
+            "causes": [
+                {
+                    "label": "MISALIGNMENT",
+                    "name": "Desalinhamento"
+                },
+                {
+                    "label": "UNBALANCE",
+                    "name": "Desbalanceamento"
+                },
+                {
+                    "label": "LOOSENESS",
+                    "name": "Folga"
+                }
+            ],
+            "start_time": 1791134936,
+            "start_time_text": "04/10/2026 14:28",
+            "end_time": 1791196512,
+            "last_alarmed_time": 1791134936,
+            "max_percent_above_alarm": 15.8,
+            "time_avoided_in_hours": null,
+            "time_avoided_in_hours_text": null,
+            "avoided_maintenance_cost": null,
+            "avoided_maintenance_cost_text": null
+        },
+        {
+            "plant": "Usina Giasa ",
+            "sector": "Extração",
+            "group": "Conjunto Rotativo",
+            "equipment": "Desfibrador",
+            "spot": "LA",
+            "spot_id": 24026,
+            "sensor_id": "NG04949",
+            "diagnostic_card_id": 154532,
+            "card_status": "CLOSED",
+            "status_color": "YELLOW",
+            "severity": "attention",
+            "related_failures": [
+                {
+                    "label": "VELOCITY_FAILURE",
+                    "name": "Velocidade",
+                    "status_color": "YELLOW"
+                }
+            ],
+            "related_failures_text": "Velocidade",
+            "causes": [
+                {
+                    "label": "OTHERS",
+                    "name": "OTHERS"
+                }
+            ],
+            "start_time": 1791122818,
+            "start_time_text": "04/10/2026 11:06",
+            "end_time": 1791196760,
+            "last_alarmed_time": 1791126118,
+            "max_percent_above_alarm": 5.87,
+            "time_avoided_in_hours": null,
+            "time_avoided_in_hours_text": null,
+            "avoided_maintenance_cost": null,
+            "avoided_maintenance_cost_text": null
+        },
+        {
+            "plant": "Usina Giasa ",
+            "sector": "Extração",
+            "group": "Conjunto Rotativo",
+            "equipment": "Navalha",
+            "spot": "LA",
+            "spot_id": 24029,
+            "sensor_id": "NG04950",
+            "diagnostic_card_id": 154523,
+            "card_status": "CLOSED",
+            "status_color": "YELLOW",
+            "severity": "attention",
+            "related_failures": [
+                {
+                    "label": "VELOCITY_FAILURE",
+                    "name": "Velocidade",
+                    "status_color": "YELLOW"
+                }
+            ],
+            "related_failures_text": "Velocidade",
+            "causes": [
+                {
+                    "label": "OTHERS",
+                    "name": "OTHERS"
+                }
+            ],
+            "start_time": 1791115264,
+            "start_time_text": "04/10/2026 09:01",
+            "end_time": 1791196558,
+            "last_alarmed_time": 1791115264,
+            "max_percent_above_alarm": 0.66,
+            "time_avoided_in_hours": null,
+            "time_avoided_in_hours_text": null,
+            "avoided_maintenance_cost": null,
+            "avoided_maintenance_cost_text": null
+        },
+        {
+            "plant": "Usina Giasa ",
+            "sector": "Extração",
+            "group": "Conjunto Rotativo",
+            "equipment": "Navalha",
+            "spot": "LA",
+            "spot_id": 24029,
+            "sensor_id": "NG04950",
+            "diagnostic_card_id": 154522,
+            "card_status": "CLOSED",
+            "status_color": "RED",
+            "severity": "critical",
+            "related_failures": [
+                {
+                    "label": "ACCELERATION_FAILURE",
+                    "name": "Aceleração",
+                    "status_color": "RED"
+                }
+            ],
+            "related_failures_text": "Aceleração",
+            "causes": [
+                {
+                    "label": "OTHERS",
+                    "name": "OTHERS"
+                }
+            ],
+            "start_time": 1791114964,
+            "start_time_text": "04/10/2026 08:56",
+            "end_time": 1791196535,
+            "last_alarmed_time": 1791161164,
+            "max_percent_above_alarm": 2.93,
+            "time_avoided_in_hours": null,
+            "time_avoided_in_hours_text": null,
+            "avoided_maintenance_cost": null,
+            "avoided_maintenance_cost_text": null
+        },
+        {
+            "plant": "Usina Giasa ",
+            "sector": "Extração",
+            "group": "Conjunto Rotativo",
+            "equipment": "Turbina a vapor",
+            "spot": "LOA",
+            "spot_id": 24032,
+            "sensor_id": "NG04953",
+            "diagnostic_card_id": 154518,
+            "card_status": "CLOSED",
+            "status_color": "RED",
+            "severity": "critical",
+            "related_failures": [
+                {
+                    "label": "ACCELERATION_FAILURE",
+                    "name": "Aceleração",
+                    "status_color": "RED"
+                }
+            ],
+            "related_failures_text": "Aceleração",
+            "causes": [
+                {
+                    "label": "OTHERS",
+                    "name": "OTHERS"
+                }
+            ],
+            "start_time": 1791110869,
+            "start_time_text": "04/10/2026 07:47",
+            "end_time": 1791196476,
+            "last_alarmed_time": 1791196069,
+            "max_percent_above_alarm": 0.0,
+            "time_avoided_in_hours": null,
+            "time_avoided_in_hours_text": null,
+            "avoided_maintenance_cost": null,
+            "avoided_maintenance_cost_text": null
+        }
+    ],
+    "pagination": {
+        "limit": 1000,
+        "offset": 0,
+        "total": 6
+    }
+}
